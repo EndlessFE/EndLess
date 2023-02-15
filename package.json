@@ -1,0 +1,23 @@
+{
+  "name": "endless",
+  "version": "1.0.0",
+  "description": "The path of progression for white people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndlessFE/EndLess.git"
+  },
+  "keywords": [
+    "FE",
+    "Doc"
+  ],
+  "author": "perter_zheng_1996@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EndlessFE/EndLess/issues"
+  },
+  "homepage": "https://github.com/EndlessFE/EndLess#readme"
+}
